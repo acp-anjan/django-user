@@ -28,7 +28,7 @@ SECRET_KEY = 'kxzm+g7_7e14g#s9@g=l4nmil)m!sfsb-66sp%16ui=b08#+*4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://acpanjan.pythonanywhere.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
